@@ -1,6 +1,9 @@
 # Turboskite - Innovative Wind Turbine Solution
 
-![product_logo](https://github.com/user-attachments/assets/9ee7b523-c1eb-42ef-97bc-39ab1f7aadca)
+<div align="center">
+  <img src="![product_logo](https://github.com/user-attachments/assets/e8d395cb-9d93-41c9-b417-32cac6b2df09)">
+</div>
+
 Welcome to the **Turboskite** website! Turboskite is an innovative, eco-friendly wind turbine designed to harness both wind and solar energy. Our unique product features a fabric design with a perovskite cell at its core, combining the benefits of solar panels and wind turbines into one efficient solution for clean energy.
 
 ## Features
@@ -26,7 +29,11 @@ Thank you for visiting **Turboskite**! Together, let's pave the way for cleaner 
 
 ## Team UNite
 
-![main_logo](https://github.com/user-attachments/assets/b240e602-735f-4b91-accb-ed38c8f8c09e)
+<div align="center">
+  <img src="![main_logo](https://github.com/user-attachments/assets/c81e8eed-2ed2-4851-9601-d36720d70cd1)
+">
+</div>
+
 - Harshit Gupta
 - Sanmitra Chowdury
 - Pushkar Patel
