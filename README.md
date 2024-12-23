@@ -23,7 +23,7 @@ through the hyperlinked logos on our homepage.
 
 Thank you for visiting **Turboskite**! Together, let's pave the way for cleaner energy solutions.
 
-Team UNite
+## Team UNite
 - Harshit Gupta
 - Sanmitra Chowdury
 - Pushkar Patel
