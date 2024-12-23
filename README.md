@@ -12,7 +12,7 @@ The website offers a user-friendly experience with a collapsible sidebar on the 
 - **Timeline**: Explore our ambitious plans for product expansion through an engaging scroll animation.
 - **Our Product**: View our innovative wind turbine, priced at $100,000 per unit, and easily access the 'Buy Now' button.
 
-### Connect with Us
+## Connect with Us
 
 Stay updated and join our community! 
 Follow us on 
