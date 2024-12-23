@@ -16,8 +16,8 @@ The website offers a user-friendly experience with a collapsible sidebar on the 
 
 Stay updated and join our community! 
 Follow us on 
-[X](https://x.com/UNite7SDG?t=YWxyQyEw5CIssrHb40crqA&s=08)
-[Instagram](https://www.instagram.com/unite7sdg/?utm_source=qr)
+[X](https://x.com/UNite7SDG?t=YWxyQyEw5CIssrHb40crqA&s=08),
+[Instagram](https://www.instagram.com/unite7sdg/?utm_source=qr) and
 [YouTube](https://www.youtube.com/@UNite-jj4zl/about) 
 through the hyperlinked logos on our homepage.
 
