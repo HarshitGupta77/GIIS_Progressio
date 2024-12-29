@@ -30,7 +30,7 @@ Thank you for visiting **Turboskite**! Together, let's pave the way for cleaner 
 ## Team UNite
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c81e8eed-2ed2-4851-9601-d36720d70cd1" alt="Team_Logo">
+  <img src="https://github.com/user-attachments/assets/c81e8eed-2ed2-4851-9601-d36720d70cd1" alt="Team_Logo" height=400 width=400>
 </div>
 
 - Harshit Gupta
