@@ -1,6 +1,6 @@
 # Turboskite - Innovative Wind Turbine Solution
 
-<div align="center">
+<div align="center", height=50, width=50>
   <img src="https://github.com/user-attachments/assets/e8d395cb-9d93-41c9-b417-32cac6b2df09" alt="Product_Logo">
 </div>
 
